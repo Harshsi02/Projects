@@ -1,0 +1,2 @@
+This project is about- the analysis of the effect of lockdown on Delhi's air quality from the month of March to June.
+                     - Analysing pollution levels of the Delhi from 2015 to 2020.  
